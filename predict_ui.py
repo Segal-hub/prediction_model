@@ -703,7 +703,8 @@ risk_cols = [
     "Is FloLive",
     "Last transmission",
     "AvgBatteryVoltage",
-    "AvgRSSI"
+    "AvgRSSI",
+    "PredProb"
     ]
 
 risky = (
